@@ -2,4 +2,3 @@ name:Andrey
 age:24
 number of animals:1
 future salary:i hope 500$
-11
